@@ -1,0 +1,2 @@
+Compact management system. Utilizing login system where you need authorize your identity in the system, using coupons as object connected to other users, through the SQL data managing services by JDBC. The platform ables to add, update, perform by loged user, with a thread that deletes out-dated coupons. 
+ 
